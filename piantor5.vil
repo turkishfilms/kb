@@ -2,7 +2,7 @@
     "combo": [
         ["KC_Q", "KC_W", "KC_NO", "KC_NO", "KC_ESCAPE"],
         ["KC_SPACE", "MO(2)", "KC_NO", "KC_NO", "TO(3)"],
-        ["KC_BTN1", "KC_BTN2", "KC_NO", "KC_NO", "TO(0)"],
+        ["KC_BTN1", "TD(14)", "KC_NO", "KC_NO", "TO(0)"],
         ["KC_Z", "KC_X", "KC_NO", "KC_NO", "OSM(MOD_LGUI)"],
         ["KC_P", "KC_BSPACE", "KC_NO", "KC_NO", "KC_DELETE"],
         ["KC_DOT", "KC_SLASH", "KC_NO", "KC_NO", "KC_ENTER"],
@@ -377,7 +377,7 @@
             ["KC_NO", "KC_WBAK", "TD(3)", "KC_WFWD", "TD(2)", "KC_NO"],
             ["KC_NO", "M0", "KC_MS_U", "M1", "KC_WH_U", "KC_NO"],
             ["KC_NO", "KC_MS_L", "KC_MS_D", "KC_MS_R", "KC_WH_D", "KC_NO"],
-            ["KC_BTN1", "KC_BTN2", "KC_NO", -1, -1, -1]
+            ["KC_BTN1", "TD(14)", "KC_NO", -1, -1, -1]
         ],
         [
             ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"],
@@ -532,7 +532,7 @@
         ["M2", "M3", "KC_NO", "KC_NO", 200],
         ["LSFT(KC_LBRACKET)", "LSFT(KC_RBRACKET)", "KC_NO", "KC_NO", 200],
         ["KC_LBRACKET", "KC_RBRACKET", "KC_NO", "KC_NO", 200],
-        ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 200],
+        ["KC_BTN2", "KC_BTN2", "KC_BTN3", "KC_BTN3", 200],
         ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 200],
         ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 200],
         ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 200],
